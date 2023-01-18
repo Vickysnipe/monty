@@ -1,2 +1,2 @@
 # monty
-a project on stacks and queues 
+a project on stacks, queues, LIFO, FIFO 
